@@ -130,7 +130,7 @@ This project is licensed under the MIT License
 
 ## Author
 
-Your Name ([@14wkinnersley](https://github.com/14wkinnersley))
+([@14wkinnersley](https://github.com/14wkinnersley))
 
 ## Support
 
